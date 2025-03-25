@@ -1,0 +1,14 @@
+rodar uvicorn
+
+uvicorn main:app --reload
+
+
+poetry shell
+
+poetry install
+
+task "comando"
+
+task run
+
+fastapi dev fast_zero/app.py
